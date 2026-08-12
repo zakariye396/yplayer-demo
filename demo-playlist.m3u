@@ -1,64 +1,179 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="13 Cultura" group-title="Culture",13 Cultura
-https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-id="13 Entretención" group-title="Entertainment",13 Entretención
-https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-#EXTINF:-1 tvg-id="13 Kids" group-title="Kids",13 Kids
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:-1 tvg-id="CGTN Español" group-title="News",CGTN Español
-https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1 tvg-id="Global News" group-title="News",Global News
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-#EXTINF:-1 tvg-id="ICI RDI" group-title="News",ICI RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 tvg-id="Net TV" group-title="Entertainment",Net TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTL 102.5 + Plus" group-title="Music",RTL 102.5 + Plus
-https://streamcdng14-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S82929343/cAcsSu4Wecc5/chunklist_b5256000.m3u8
-#EXTINF:-1 tvg-id="RTL 102.5" group-title="Music",RTL 102.5
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
-#EXTINF:-1 tvg-id="RTL 102.5 Traffic" group-title="Music",RTL 102.5 Traffic
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8
-#EXTINF:-1 tvg-id="Rede Brasil" group-title="Entertainment",Rede Brasil
-https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
-#EXTINF:-1 tvg-id="Savoir Média" group-title="Culture",Savoir Média
-https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-id="Super! POP – Pluto TV" group-title="Kids",Super! POP – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="T13 en vivo" group-title="News",T13 en vivo
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TV Cultura" group-title="Culture",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-id="TV Universidad" group-title="Culture",TV Universidad
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-#EXTINF:-1 tvg-id="UCV Televisión" group-title="Culture",UCV Televisión
-https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="W24" group-title="News",W24
-https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Pluto TV Sport" group-title="Sports",Pluto TV Sport
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-# ── Movies (public domain / open content — safe for App Review) ──
-#EXTINF:-1 group-title="Movies",Big Buck Bunny (2008)
+#EXTINF:-1 tvg-id="Animation — Big Buck Bunny" group-title="Animation",Animation — Big Buck Bunny
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 group-title="Movies",Tears of Steel (2012)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 group-title="Movies",Night of the Living Dead (1968)
-https://archive.org/download/night-of-the-living-dead-1968_202312/Night%20of%20the%20Living%20Dead%20%281968%29.mp4
-#EXTINF:-1 group-title="Movies",His Girl Friday (1940)
-https://archive.org/download/Harvey_His_Girl_Friday/Harvey_His_Girl_Friday.mp4
-#EXTINF:-1 group-title="Movies",The Stranger (1946)
-https://archive.org/download/the_stranger_1946/the_stranger_1946.mp4
-
-# ── Series (public domain — The Beverly Hillbillies) ──
-#EXTINF:-1 group-title="Series",The Beverly Hillbillies S01E01
-https://archive.org/download/beverly.-hillbillies-unaired.-pilot/Beverly.Hillbillies-Unaired.Pilot.mp4
-#EXTINF:-1 group-title="Series",The Beverly Hillbillies S01E05
-https://archive.org/download/TheBeverlyHillbillies-JedBuysStock-Ep.1x05/TheBeverlyHillbillies105-JedBuysStock_512kb.mp4
-#EXTINF:-1 group-title="Series",The Beverly Hillbillies S01E42
-https://archive.org/download/Beverly_Hillbillies_Ep42_Jethros_First_Love/Beverly_Hillbillies_Ep42_Jethros_First_Love_512kb.mp4
-#EXTINF:-1 group-title="Series",The Beverly Hillbillies S01E43
-https://archive.org/download/Beverly_Hillbillies_Ep43_Chickadee_Returns/Beverly_Hillbillies_Ep43_Chickadee_Returns_512kb.mp4
-#EXTINF:-1 group-title="Series",The Beverly Hillbillies S01E52
-https://archive.org/download/Beverly_Hillbillies_Ep52_The_Giant_JackRabbit/BH52_The_Giant_JackRabbit_512kb.mp4
+#EXTINF:-1 tvg-id="Animation — Tears of Steel" group-title="Animation",Animation — Tears of Steel
+https://test-streams.mux.dev/tos_ismc/main.m3u8
+#EXTINF:-1 tvg-id="Live Feed 1" group-title="Live Feeds",Live Feed 1
+https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8
+#EXTINF:-1 tvg-id="Live Feed 2" group-title="Live Feeds",Live Feed 2
+https://demo.unified-streaming.com/k8s/live/stable/scte35.isml/.m3u8
+#EXTINF:-1 tvg-id="Animation — Encrypted Sample" group-title="Animation",Animation — Encrypted Sample
+https://test-streams.mux.dev/bbbAES/playlists/sample_aes/index.m3u8
+#EXTINF:-1 tvg-id="Reference Stream HDR" group-title="Reference",Reference Stream HDR
+https://devstreaming-cdn.apple.com/videos/streaming/examples/adv_dv_atmos/main.m3u8
+#EXTINF:-1 tvg-id="Reference Stream 16:9" group-title="Reference",Reference Stream 16:9
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="Reference Stream 4:3" group-title="Reference",Reference Stream 4:3
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
+#EXTINF:-1 tvg-id="Reference Stream fMP4" group-title="Reference",Reference Stream fMP4
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="Reference Stream Advanced" group-title="Reference",Reference Stream Advanced
+https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="Timing Test Stream" group-title="Test Streams",Timing Test Stream
+https://test-streams.mux.dev/pts_shift/master.m3u8
+#EXTINF:-1 tvg-id="Discontinuity Test Stream" group-title="Test Streams",Discontinuity Test Stream
+https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8
+#EXTINF:-1 tvg-id="Multi-Bitrate Test Stream" group-title="Test Streams",Multi-Bitrate Test Stream
+https://test-streams.mux.dev/test_001/stream.m3u8
+#EXTINF:-1 tvg-id="Night of the Living Dead" tvg-logo="https://image.tmdb.org/t/p/w500/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg" group-title="Movies",Night of the Living Dead (1968)
+https://archive.org/download/night_of_the_living_dead_dvd/Night.mp4
+#EXTINF:-1 tvg-id="His Girl Friday" tvg-logo="https://image.tmdb.org/t/p/w500/lu86Y9zTPH3neCiUzLzHCEFHf7f.jpg" group-title="Movies",His Girl Friday (1940)
+https://archive.org/download/his_girl_friday/his_girl_friday.mp4
+#EXTINF:-1 tvg-id="The Stranger" tvg-logo="https://image.tmdb.org/t/p/w500/bzjoPScBLUWpSu10m3GbSbSwVhS.jpg" group-title="Movies",The Stranger (1946)
+https://archive.org/download/TheStranger720p/TheStranger720p.mp4
+#EXTINF:-1 tvg-id="McLintock!" tvg-logo="https://image.tmdb.org/t/p/w500/gjaAtWJqGomsE5qNQStHcHhSzES.jpg" group-title="Movies",McLintock! (1963)
+https://archive.org/download/mclintok_widescreen/McLintock.mp4
+#EXTINF:-1 tvg-id="Scarlet Street" tvg-logo="https://image.tmdb.org/t/p/w500/eGEDor1BWSQGaLtOntPHUSqNzRC.jpg" group-title="Movies",Scarlet Street (1945)
+https://archive.org/download/scarlet-street-1945/Scarlet%20Street%20%281945%29.mp4
+#EXTINF:-1 tvg-id="D.O.A." tvg-logo="https://image.tmdb.org/t/p/w500/m7wZXWOt9XQKJT8r9pbAFo7jB46.jpg" group-title="Movies",D.O.A. (1949)
+https://archive.org/download/DOA1950/DOA%20%281950%29.mp4
+#EXTINF:-1 tvg-id="Detour" tvg-logo="https://image.tmdb.org/t/p/w500/gJb9HRAs1V4bA0VKsWpT6mhv2RT.jpg" group-title="Movies",Detour (1945)
+https://archive.org/download/Detour/Detour.mp4
+#EXTINF:-1 tvg-id="The Cabinet of Dr. Caligari" tvg-logo="https://image.tmdb.org/t/p/w500/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg" group-title="Movies",The Cabinet of Dr. Caligari (1920)
+https://archive.org/download/DasKabinettdesDoktorCaligariTheCabinetofDrCaligari/The_Cabinet_of_Dr._Caligari_512kb.mp4
+#EXTINF:-1 tvg-id="Metropolis" tvg-logo="https://image.tmdb.org/t/p/w500/kr9wXRN23zLuWJIelahas1mtnYj.jpg" group-title="Movies",Metropolis (1927)
+https://archive.org/download/Metropolis1927EnglishVersion/Metropolis_1927_English_Version.mp4
+#EXTINF:-1 tvg-id="Nosferatu" tvg-logo="https://image.tmdb.org/t/p/w500/zv7J85D8CC9qYagAEhPM63CIG6j.jpg" group-title="Movies",Nosferatu (1922)
+https://archive.org/download/Nosferatu_most_complete_version_93_mins./Nosferatu_1922_Symphony_of_Horror_512kb.mp4
+#EXTINF:-1 tvg-id="The General" tvg-logo="https://image.tmdb.org/t/p/w500/nIp4gIXogCjfB1QABNsWwa9gSca.jpg" group-title="Movies",The General (1926)
+https://archive.org/download/TheGeneral/The_General_512kb.mp4
+#EXTINF:-1 tvg-id="Sherlock Jr." tvg-logo="https://image.tmdb.org/t/p/w500/1G9r3rqtbFAQuyWKOZm4Y5J5s7Q.jpg" group-title="Movies",Sherlock Jr. (1924)
+https://archive.org/download/sherlockjr1924_201909/Sherlock%20Jr.%20-%20Buster%20Keaton%20%281924%29%20HD%20%5B720p%5D.mp4
+#EXTINF:-1 tvg-id="The Gold Rush" tvg-logo="https://image.tmdb.org/t/p/w500/eQRFo1qwRREYwj47Yoe1PisgOle.jpg" group-title="Movies",The Gold Rush (1925)
+https://archive.org/download/murphy-brown-s03E05-the-gold-rush/Murphy%20Brown%20-%20S03E05%20-%20The%20Gold%20Rush.mp4
+#EXTINF:-1 tvg-id="Battleship Potemkin" tvg-logo="https://image.tmdb.org/t/p/w500/hZmsRLsCnE9Zshf1YJONUpCOhds.jpg" group-title="Movies",Battleship Potemkin (1925)
+https://archive.org/download/BattleshipPotemkin/Battleship_Potemkin_512kb.mp4
+#EXTINF:-1 tvg-id="The Phantom of the Opera" tvg-logo="https://image.tmdb.org/t/p/w500/mvaYpAYj957C2tlq3vVJPSzGJXK.jpg" group-title="Movies",The Phantom of the Opera (1925)
+https://archive.org/download/ThePhantomoftheOpera/Phantom_of_the_Opera_512kb.mp4
+#EXTINF:-1 tvg-id="The Lost World" tvg-logo="https://image.tmdb.org/t/p/w500/411VnWtYJdEFKiaGqJOeTmBv8th.jpg" group-title="Movies",The Lost World (1925)
+https://archive.org/download/lost_world/lost_world.mp4
+#EXTINF:-1 tvg-id="Plan 9 from Outer Space" tvg-logo="https://image.tmdb.org/t/p/w500/bmicZi7PvlnZ9rZqp6QXN2Db0pT.jpg" group-title="Movies",Plan 9 from Outer Space (1957)
+https://archive.org/download/plan-9-from-outer-space_202009/Plan%209%20from%20Outer%20Space.mp4
+#EXTINF:-1 tvg-id="Carnival of Souls" tvg-logo="https://image.tmdb.org/t/p/w500/AdbQsFB8pS090l0NO3uBtLZy2zw.jpg" group-title="Movies",Carnival of Souls (1962)
+https://archive.org/download/CarnivalOfSouls1962/Carnival_of_Souls_512kb.mp4
+#EXTINF:-1 tvg-id="House on Haunted Hill" tvg-logo="https://image.tmdb.org/t/p/w500/g5kdFt3piV3w1pG65W9sSToJ7HB.jpg" group-title="Movies",House on Haunted Hill (1959)
+https://archive.org/download/House_On_Haunted_Hill.avi/The_House_on_Haunted_Hill.mp4
+#EXTINF:-1 tvg-id="The Last Man on Earth" tvg-logo="https://image.tmdb.org/t/p/w500/tTnwBklPiWp5roxtHUO2yHXr9Fw.jpg" group-title="Movies",The Last Man on Earth (1964)
+https://archive.org/download/TheLastManOnEarth_72/the_last_man_on_earth.mp4
+#EXTINF:-1 tvg-id="The Little Shop of Horrors" tvg-logo="https://image.tmdb.org/t/p/w500/s9MrumN9oCfv1rFoEvMLwucWD7V.jpg" group-title="Movies",The Little Shop of Horrors (1960)
+https://archive.org/download/TheLittleShopOfHorrors1960_765/TheLittleShopOfHorrors1960.mp4
+#EXTINF:-1 tvg-id="Dementia 13" tvg-logo="https://image.tmdb.org/t/p/w500/aLv5491Q11zhIZbpqz7rnRZkSLZ.jpg" group-title="Movies",Dementia 13 (1963)
+https://archive.org/download/Dementia13withSpanishSubtitles/Dementia13_512kb_sub_512kb.mp4
+#EXTINF:-1 tvg-id="A Star Is Born" tvg-logo="https://image.tmdb.org/t/p/w500/90EfCmXXWOs5dy7rHTNvGT9T8Kz.jpg" group-title="Movies",A Star Is Born (1937)
+https://archive.org/download/AStarIsBorn/AStarIsBorn.mp4
+#EXTINF:-1 tvg-id="Meet John Doe" tvg-logo="https://image.tmdb.org/t/p/w500/dnBZbFE2OGlTGNGBVTn6t83tJtd.jpg" group-title="Movies",Meet John Doe (1941)
+https://archive.org/download/meet_john_doe/meet_john_doe.mp4
+#EXTINF:-1 tvg-id="Nothing Sacred" tvg-logo="https://image.tmdb.org/t/p/w500/uqu30x75SjsPNyDN0A5VedoEqyg.jpg" group-title="Movies",Nothing Sacred (1937)
+https://archive.org/download/NothingSacredVideoQualityUpgrade/NothingSacredVideoQualityUpgrade.mp4
+#EXTINF:-1 tvg-id="Suddenly" tvg-logo="https://image.tmdb.org/t/p/w500/v0eQfRMVJtvEkaJjBsSrd6ri1UI.jpg" group-title="Movies",Suddenly (1954)
+https://archive.org/download/suddenly/suddenly.mp4
+#EXTINF:-1 tvg-id="Beat the Devil" tvg-logo="https://image.tmdb.org/t/p/w500/jztp9bhYDGAMK7WgvLA3mmzLseN.jpg" group-title="Movies",Beat the Devil (1953)
+https://archive.org/download/BeatTheDevil1953/BeatTheDevil1954.mp4
+#EXTINF:-1 tvg-id="The Hitch-Hiker" tvg-logo="https://image.tmdb.org/t/p/w500/9ORvQWC2o0FwIEl6zYU1jw9qH0X.jpg" group-title="Movies",The Hitch-Hiker (1953)
+https://archive.org/download/Hitch_Hiker/Hitch-Hiker.mp4
+#EXTINF:-1 tvg-id="The Beverly Hillbillies" group-title="Series",The Beverly Hillbillies S01E01
+https://archive.org/download/bevhill-s01e01-36/s01e01-The-Clampetts-Strike-Oil.mp4
+#EXTINF:-1 tvg-id="The Beverly Hillbillies" group-title="Series",The Beverly Hillbillies S01E02
+https://archive.org/download/bevhill-s01e01-36/s01e02-Getting-Settled.mp4
+#EXTINF:-1 tvg-id="The Beverly Hillbillies" group-title="Series",The Beverly Hillbillies S01E03
+https://archive.org/download/bevhill-s01e01-36/s01e03_Meanwhile_Back_At_The_Cabin.mp4
+#EXTINF:-1 tvg-id="The Beverly Hillbillies" group-title="Series",The Beverly Hillbillies S01E04
+https://archive.org/download/bevhill-s01e01-36/s01e04-The-Clampetts-Meet-Mrs-Drysdale.mp4
+#EXTINF:-1 tvg-id="The Beverly Hillbillies" group-title="Series",The Beverly Hillbillies S01E05
+https://archive.org/download/bevhill-s01e01-36/s01e05_Jed_Buys_Stock.mp4
+#EXTINF:-1 tvg-id="Bonanza" group-title="Series",Bonanza S01E01
+https://archive.org/download/Bonanza_pd/Bonanza%20s01e19.mp4
+#EXTINF:-1 tvg-id="Bonanza" group-title="Series",Bonanza S01E02
+https://archive.org/download/Bonanza_pd/Bonanza%20s01e20.mp4
+#EXTINF:-1 tvg-id="Bonanza" group-title="Series",Bonanza S01E03
+https://archive.org/download/Bonanza_pd/Bonanza%20s01e21.mp4
+#EXTINF:-1 tvg-id="Bonanza" group-title="Series",Bonanza S01E04
+https://archive.org/download/Bonanza_pd/Bonanza%20s01e22.mp4
+#EXTINF:-1 tvg-id="Bonanza" group-title="Series",Bonanza S01E05
+https://archive.org/download/Bonanza_pd/Bonanza%20s01e23.mp4
+#EXTINF:-1 tvg-id="Dragnet" group-title="Series",Dragnet S01E01
+https://archive.org/download/Dragnet1951/Dragnet/Season%201/Dragnet%20%281951%29%20-%20S01E05%20-%20The%20Big%20Cast.mp4
+#EXTINF:-1 tvg-id="Dragnet" group-title="Series",Dragnet S01E02
+https://archive.org/download/Dragnet1951/Dragnet/Season%201/Dragnet%20%281951%29%20-%20S01E12%20-%20The%20Big%20Phone%20Call.mp4
+#EXTINF:-1 tvg-id="Dragnet" group-title="Series",Dragnet S01E03
+https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E01%20-%20The%20Big%20Jump.mp4
+#EXTINF:-1 tvg-id="Dragnet" group-title="Series",Dragnet S01E04
+https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E04%20-%20The%20Big%20Seventeen.mp4
+#EXTINF:-1 tvg-id="Dragnet" group-title="Series",Dragnet S01E05
+https://archive.org/download/Dragnet1951/Dragnet/Season%202/Dragnet%20%281951%29%20-%20S02E09%20-%20The%20Big%20Grandma.mp4
+#EXTINF:-1 tvg-id="The Dick Van Dyke Show" group-title="Series",The Dick Van Dyke Show S01E01
+https://archive.org/download/The_Dick_van_Dyke_Show/A_MANS_TEETH_ARE_NOT_HIS_OWN_512kb.mp4
+#EXTINF:-1 tvg-id="The Dick Van Dyke Show" group-title="Series",The Dick Van Dyke Show S01E02
+https://archive.org/download/The_Dick_van_Dyke_Show/GIVE_ME_YOUR_WALLS.mp4
+#EXTINF:-1 tvg-id="The Dick Van Dyke Show" group-title="Series",The Dick Van Dyke Show S01E03
+https://archive.org/download/The_Dick_van_Dyke_Show/GIVE_ME_YOUR_WALLS_512kb.mp4
+#EXTINF:-1 tvg-id="The Dick Van Dyke Show" group-title="Series",The Dick Van Dyke Show S01E04
+https://archive.org/download/The_Dick_van_Dyke_Show/HUSTLING_THE_HUSTLER.mp4
+#EXTINF:-1 tvg-id="The Dick Van Dyke Show" group-title="Series",The Dick Van Dyke Show S01E05
+https://archive.org/download/The_Dick_van_Dyke_Show/HUSTLING_THE_HUSTLER_512kb.mp4
+#EXTINF:-1 tvg-id="Green Acres" group-title="Series",Green Acres S01E01
+https://archive.org/download/GreenAcresCompleteSeries/Green%20Acres%20Season%201/Green%20Acres%20-%20001%20-%20Oliver%20Buys%20A%20Farm.mp4
+#EXTINF:-1 tvg-id="Green Acres" group-title="Series",Green Acres S01E02
+https://archive.org/download/GreenAcresCompleteSeries/Green%20Acres%20Season%201/Green%20Acres%20-%20002%20-%20Lisa%27s%20First%20Day%20on%20the%20Farm.mp4
+#EXTINF:-1 tvg-id="Green Acres" group-title="Series",Green Acres S01E03
+https://archive.org/download/GreenAcresCompleteSeries/Green%20Acres%20Season%201/Green%20Acres%20-%20003%20-%20The%20Decorator.mp4
+#EXTINF:-1 tvg-id="Green Acres" group-title="Series",Green Acres S01E04
+https://archive.org/download/GreenAcresCompleteSeries/Green%20Acres%20Season%201/Green%20Acres%20-%20004%20-%20The%20Best%20Laid%20Plans%20-%20%28TV%20Rip%29.mp4
+#EXTINF:-1 tvg-id="Green Acres" group-title="Series",Green Acres S01E05
+https://archive.org/download/GreenAcresCompleteSeries/Green%20Acres%20Season%201/Green%20Acres%20-%20005%20-%20My%20Husband%2C%20The%20Rooster%20Renter.mp4
+#EXTINF:-1 tvg-id="Petticoat Junction" group-title="Series",Petticoat Junction S01E01
+https://archive.org/download/Petticoat_Junction_Series/Petticoat%20Junction%20-%20Season%201/Petticoat%20Junction%20S01E01%20-%20Spur%20Lane%20to%20Shady%20Rest%20%28Part%201%20of%202%29.mp4
+#EXTINF:-1 tvg-id="Petticoat Junction" group-title="Series",Petticoat Junction S01E02
+https://archive.org/download/Petticoat_Junction_Series/Petticoat%20Junction%20-%20Season%201/Petticoat%20Junction%20S01E14%20-%20Cannonball%20Christmas.mp4
+#EXTINF:-1 tvg-id="Petticoat Junction" group-title="Series",Petticoat Junction S01E03
+https://archive.org/download/Petticoat_Junction_Series/Petticoat%20Junction%20-%20Season%201/Petticoat%20Junction%20S01E15%20-%20Herby%20Gets%20Drafted.mp4
+#EXTINF:-1 tvg-id="Petticoat Junction" group-title="Series",Petticoat Junction S01E04
+https://archive.org/download/Petticoat_Junction_Series/Petticoat%20Junction%20-%20Season%201/Petticoat%20Junction%20S01E16%20-%20Bobbie%20Jo%20and%20the%20Beatnik.mp4
+#EXTINF:-1 tvg-id="Petticoat Junction" group-title="Series",Petticoat Junction S01E05
+https://archive.org/download/Petticoat_Junction_Series/Petticoat%20Junction%20-%20Season%201/Petticoat%20Junction%20S01E17%20-%20My%20Daughter%20the%20Doctor%20%28Part%201%20of%202%29.mp4
+#EXTINF:-1 tvg-id="The Adventures of Ozzie and Harriet" group-title="Series",The Adventures of Ozzie and Harriet S01E01
+https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E01%20The%20Rivals.ia.mp4
+#EXTINF:-1 tvg-id="The Adventures of Ozzie and Harriet" group-title="Series",The Adventures of Ozzie and Harriet S01E02
+https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E02%20-%20The%20Poet.ia.mp4
+#EXTINF:-1 tvg-id="The Adventures of Ozzie and Harriet" group-title="Series",The Adventures of Ozzie and Harriet S01E03
+https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E02%20-%20The%20Poet.mp4
+#EXTINF:-1 tvg-id="The Adventures of Ozzie and Harriet" group-title="Series",The Adventures of Ozzie and Harriet S01E04
+https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E03%20-%20The%20Pills.ia.mp4
+#EXTINF:-1 tvg-id="The Adventures of Ozzie and Harriet" group-title="Series",The Adventures of Ozzie and Harriet S01E05
+https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E04%20-%20The%20Fall%20Guy.ia.mp4
+#EXTINF:-1 tvg-id="The Lone Ranger" group-title="Series",The Lone Ranger S01E01
+https://archive.org/download/theloneranger_201705/s01e02_TheLoneRangerFightsOn.mp4
+#EXTINF:-1 tvg-id="The Lone Ranger" group-title="Series",The Lone Ranger S01E02
+https://archive.org/download/theloneranger_201705/s01e05_RustlersHideout.mp4
+#EXTINF:-1 tvg-id="The Lone Ranger" group-title="Series",The Lone Ranger S01E03
+https://archive.org/download/theloneranger_201705/s01e06_Warhorse.mp4
+#EXTINF:-1 tvg-id="The Lone Ranger" group-title="Series",The Lone Ranger S01E04
+https://archive.org/download/theloneranger_201705/s01e10_Highheels.mp4
+#EXTINF:-1 tvg-id="The Lone Ranger" group-title="Series",The Lone Ranger S01E05
+https://archive.org/download/theloneranger_201705/s01e11_SixgunsLegacy.mp4
+#EXTINF:-1 tvg-id="The Cisco Kid" group-title="Series",The Cisco Kid S01E01
+https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e01.mp4
+#EXTINF:-1 tvg-id="The Cisco Kid" group-title="Series",The Cisco Kid S01E02
+https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e03.mp4
+#EXTINF:-1 tvg-id="The Cisco Kid" group-title="Series",The Cisco Kid S01E03
+https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e04.mp4
+#EXTINF:-1 tvg-id="The Cisco Kid" group-title="Series",The Cisco Kid S01E04
+https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e05.mp4
+#EXTINF:-1 tvg-id="The Cisco Kid" group-title="Series",The Cisco Kid S01E05
+https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e06.mp4
+#EXTINF:-1 tvg-id="You Bet Your Life" group-title="Series",You Bet Your Life S01E01
+https://archive.org/download/You_Bet_Your_Life_Groucho/You_Bet_Your_Life_Groucho_Marx.ia.mp4
+#EXTINF:-1 tvg-id="You Bet Your Life" group-title="Series",You Bet Your Life S01E02
+https://archive.org/download/You_Bet_Your_Life_Groucho/You_Bet_Your_Life_Groucho_Marx.mp4
+#EXTINF:-1 tvg-id="You Bet Your Life" group-title="Series",You Bet Your Life S01E03
+https://archive.org/download/You_Bet_Your_Life_Groucho/You_Bet_Your_Life_Groucho_Marx_512kb.mp4
